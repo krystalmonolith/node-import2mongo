@@ -1,0 +1,102 @@
+{
+    "schemaVersion": "1.0.0",
+    "title": "Alfred E. Neuman, Nobody",
+    "person": {
+        "namePrefix": "Mr.",
+        "firstName": "Alfred",
+        "middleName": "Edward",
+        "lastName": "Neuman",
+        "middleInitial": "E",
+        "nameSuffix": "Sr.",
+        "address": [ "485 MADison Avenue" ],
+        "city": "New York",
+        "state": "NY",
+        "zipcode": "10022",
+        "email": "whatmeworry@dccomics.com",
+        "phone": [ "000-000-0000" ],
+        "images": [ { "file": "alfred-e-neuman.jpg" } ]
+    },
+
+    "summary": [ "What, me worry?.",
+                "Quid, Me Anxius Sum?",
+                "\"The Number One Ecch Magazine\"." ],
+
+    "skillKeywords":
+      {
+        "sort": "down",
+        "keys": [ "Presidental Candidate", "Dentist", "Editor", "Prince of England" ]
+      },
+
+    "experience": [
+        {
+            "fromDate": "1-0-1971",
+            "toDate": "present",
+            "positionTitle": "Presidential Candidate",
+            "organizationName": "Dumbocrat Natural Committed",
+            "organizationURL": "https://en.wikipedia.org/wiki/Alfred_E._Neuman",
+            "toolSet": [ "Guile", "Deceit", "Cheerleading", "Cliques", "Fundraisers", "JIRA" ],
+            "shortDesc": "I sometimes feel that Alfred E. Neuman is in charge in Washington.",
+            "longDesc": "It's often been said that I share the politics of Alfred E. Smith and the presidential ears of Bush and Obama."
+        },
+
+        {
+            "fromDate": "4-1-1956",
+            "toDate": "12-32-1970",
+            "positionTitle": "Dentist",
+            "organizationName": "GapTooth Dentistry. ",
+            "organizationURL": "http://gappytoothedsmile.com",
+            "toolSet": [ "Drill", "Pick", "Jackhammer", "Dynamite", "H-Bomb" ],
+            "shortDesc": "Painless Dentistry!",
+            "longDesc": "Sure I'm for Roosevelt!"
+        },
+
+        {
+            "fromDate": "2/1956",
+            "toDate": "11/1954",
+            "positionTitle": "Idiot",
+            "organizationURL": "http://www.idiotsrus.com/",
+            "organizationName": "Reptilian National Commie",
+            "shortDesc": "Canvassing the Hudson River bottom.",
+            "longDesc": "Coordination of Quality assurance of installed Contractor oversight over voter canvassing."
+        }
+    ],
+
+    "certifications": [
+        {
+            "certification": "Completely Insane",
+            "duration": "24000 Hours",
+            "location": "New York, NY",
+            "when": "7/2012"
+        },
+
+        {
+            "certification": "Free from worry",
+            "duration": "1 Hour",
+            "location": "Bed",
+            "when": "now"
+        },
+
+        {
+            "certification": "Complete Idiota",
+            "duration": "3200 Hours",
+            "location": "SBCC",
+            "when": "10/2014"
+        }
+    ],
+
+    "education": [
+        {
+            "institution": "Alfred E. Neuman University",
+            "accomplished": "-1 Credits",
+            "program": "Political Science",
+            "when": "9/1980 to 12/1981"
+        },
+
+        {
+            "institution": "Neuman High School",
+            "accomplished": "Flunked Out with Honors.",
+            "program": "Basket Weaving",
+            "when": "1/1955 to 12/1965"
+        }
+    ]
+}

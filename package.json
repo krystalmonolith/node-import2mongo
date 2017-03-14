@@ -1,0 +1,28 @@
+{
+  "name": "node-import2mongo",
+  "version": "1.0.0",
+  "description": "Load JSON resume resources from file system into MongoDB.",
+  "main": "import2mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krystalmonolith/node-import2mongo.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JSON",
+    "import",
+    "MongoDB",
+    "GFS"
+  ],
+  "author": "Mark Deazley <mdeazley@gmail.com>",
+  "license": "UNLICENCED",
+  "homepage": "https://github.com/krystalmonolith/node-import2mongo",
+  "dependencies": {
+    "mongodb": "^2.2.11",
+    "node-uuid": "^1.4.7",
+    "sjcl": "^1.0.6"
+  }
+}
