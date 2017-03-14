@@ -1,7 +1,7 @@
 // Resume JSON File -> MongoDB Collection Loader
-// Copyright (c) 2016-2017 by AlphaPulsar LLC
-// All Rights Reserved.
-// Author: Mark Deazley
+// License: Unlicense
+// Created: 2016-2017
+// Author: Mark Deazley <mdeazley@gmail.com>
 
 'use strict';
 
